@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG_System-4CAF50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Value_Investing-9C27B0?style=for-the-badge"/>
 </div>
 
