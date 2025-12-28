@@ -10,7 +10,7 @@
 
 ## 📋 Project Overview
 
-**Applebee** is an advanced GenAI-powered investment advisory system that revolutionizes stock analysis by combining cutting-edge Transformer and RAG (Retrieval-Augmented Generation) architectures with Warren Buffett's time-tested value investing philosophy. Building upon decades of proven investment wisdom from Berkshire Hathaway's shareholder letters, this project addresses critical limitations in traditional financial advisory tools through innovative AI-driven analysis and proprietary scoring methodologies.
+**Applebee** is an advanced GenAI-powered investment advisory system that revolutionizes stock analysis by combining cutting-edge Transformer architecture with Warren Buffett's time-tested value investing philosophy. Building upon decades of proven investment wisdom from Berkshire Hathaway's shareholder letters, this project addresses critical limitations in traditional financial advisory tools through innovative AI-driven analysis and proprietary scoring methodologies.
 
 This implementation demonstrates significant improvements over generic investment platforms by integrating custom-built deep learning models with domain-specific knowledge, enabling both conversational intelligence and systematic stock evaluation grounded in value investing principles.
 
