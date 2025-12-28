@@ -1,4 +1,4 @@
-#🤖 Buffett AI Advisor — GenAI-Powered Investment Intelligence System
+**🤖 Buffett AI Advisor — GenAI-Powered Investment Intelligence System**
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
