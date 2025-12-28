@@ -1,4 +1,13 @@
-streamlit
-yfinance
-pandas
-numpy
+streamlit>=1.28.0
+tensorflow>=2.13.0
+tensorflow-datasets>=4.9.0
+groq>=0.9.0
+python-dotenv>=1.0.0
+numpy>=1.24.0
+matplotlib>=3.8.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+jupyter>=1.0.0
+yfinance>=0.2.40
+plotly>=5.17.0
+requests>=2.31.0
