@@ -1,4 +1,4 @@
-🤖 Buffett AI Advisor — GenAI-Powered Investment Intelligence System
+#🤖 Buffett AI Advisor — GenAI-Powered Investment Intelligence System
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -7,10 +7,11 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge"/>
 </div>
-📋 Project Overview
+
+##📋 Project Overview
 Buffett AI Advisor is an advanced GenAI-powered investment advisory system that revolutionizes stock analysis by combining cutting-edge Transformer and RAG (Retrieval-Augmented Generation) architectures with Warren Buffett's time-tested value investing philosophy. This comprehensive platform addresses the critical challenge of making informed investment decisions by providing AI-driven insights grounded in decades of proven investment wisdom.
 The system demonstrates significant innovation in financial AI applications through dual-architecture implementation: a custom-built Transformer model for conversational intelligence and a RAG framework for knowledge retrieval, both trained on an extensive corpus of Warren Buffett's investment writings and principles.
-🎯 Key Achievements
+###🎯 Key Achievements
 
 93%+ answer relevance with context-aware responses from 600K+ token knowledge base
 40% reduction in query response time through optimized Transformer architecture
@@ -18,7 +19,7 @@ The system demonstrates significant innovation in financial AI applications thro
 1,200+ curated Q&A pairs capturing nuanced investment philosophy and decision frameworks
 Real-time analysis of 100+ public companies with comprehensive fundamental metrics
 
-🚀 What is Buffett AI Advisor?
+##🚀 What is Buffett AI Advisor?
 Buffett AI Advisor solves a fundamental problem in financial decision-making: bridging the gap between sophisticated AI capabilities and practical investment wisdom that has proven successful over decades.
 The Investment Intelligence Challenge
 
@@ -27,13 +28,13 @@ Inconsistent Methodologies: Most analysis tools lack grounding in proven, cohere
 Limited Accessibility: Expert-level investment insights typically require expensive advisory services
 Shallow AI Understanding: Generic chatbots lack deep knowledge of successful investment philosophies
 
-Our Revolutionary Solution
+###Our Revolutionary Solution
 
 Buffett Score Algorithm: Proprietary 5-component scoring system evaluating stocks on 30+ metrics
 Knowledge-Grounded Responses: Every answer backed by actual content from Buffett's shareholder letters
 Interactive Analysis Dashboard: Real-time stock evaluation with visual insights and explanations
 
-💡 Core Innovation
+###💡 Core Innovation
 Part I: AI Conversational Intelligence
 Custom Transformer Architecture
 
@@ -354,39 +355,3 @@ GROQ_API_KEY = "gsk_your_key_here"
 |-------|---------------|-------|
 | CapEx to Net Income | ≤ 50% | Low capital needs = more free cash flow |
 
-## 🔮 Future Enhancements
-
-- [ ] **RAG Implementation**: Retrieve relevant Q&A pairs at query time for improved accuracy
-- [ ] **Stock Comparison**: Side-by-side analysis of multiple stocks
-- [ ] **Backtesting**: Historical performance of Buffett criteria
-- [ ] **Fine-tuned LLM**: Train a larger model on expanded Buffett corpus
-- [ ] **Portfolio Tracker**: Save and monitor favorite stocks
-- [ ] **News Integration**: Real-time news sentiment analysis
-
-## 👤 Author
-
-**Saurabh**  
-Master's in Information Systems  
-Northeastern University
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Warren Buffett for decades of investment wisdom
-- Charlie Munger for complementary insights
-- Berkshire Hathaway shareholder letters
-- Groq for providing free API access
-- Google Colab for GPU training resources
-
-## ⚠️ Disclaimer
-
-This application is for educational purposes only. It does not constitute financial advice. Always do your own research and consult with a qualified financial advisor before making investment decisions.
-
----
-
-<p align="center">
-  <i>"Price is what you pay. Value is what you get."</i> — Warren Buffett
-</p>
